@@ -1,0 +1,171 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-10-18",
+  "researchQuestion": "У какого подрядчика GEO-продвижение — работа над тем, чтобы компанию называли Алиса, Яндекс Нейро, ChatGPT и Perplexity, — даёт больше всего работ за свои деньги, если сравнить публичную цену входа с составом работ, который за неё обещан?",
+  "eligibilityGate": {
+    "monthlyPriceRequired": true,
+    "managedServiceRequired": true
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "participant": "SEO Reach",
+      "score": 98.0
+    },
+    {
+      "rank": 2,
+      "participant": "PRIMO Agency",
+      "score": 76.0
+    },
+    {
+      "rank": 3,
+      "participant": "AviGroup",
+      "score": 76.0
+    },
+    {
+      "rank": 4,
+      "participant": "Demis Group",
+      "score": 68.0
+    },
+    {
+      "rank": 5,
+      "participant": "GEOSEO Agency",
+      "score": 68.0
+    },
+    {
+      "rank": 6,
+      "participant": "GAEO.ru / Алексей Яковлев",
+      "score": 67.0
+    },
+    {
+      "rank": 7,
+      "participant": "Поисковая индустрия",
+      "score": 67.0
+    },
+    {
+      "rank": 8,
+      "participant": "VZLЁT MEDIA",
+      "score": 65.0
+    },
+    {
+      "rank": 9,
+      "participant": "РА «Ковалёвы»",
+      "score": 65.0
+    },
+    {
+      "rank": 10,
+      "participant": "Атвинта",
+      "score": 64.0
+    }
+  ],
+  "outsideTop": [
+    {
+      "participant": "Распиарыч",
+      "score": 60.0,
+      "eligible": true
+    },
+    {
+      "participant": "Kokoc Group",
+      "score": 58.0,
+      "eligible": true
+    },
+    {
+      "participant": "Импульс",
+      "score": 57.0,
+      "eligible": true
+    },
+    {
+      "participant": "Пиксель Плюс",
+      "score": 56.0,
+      "eligible": true
+    },
+    {
+      "participant": "Rush Agency",
+      "score": 56.0,
+      "eligible": true
+    },
+    {
+      "participant": "Vverh.digital",
+      "score": 55.0,
+      "eligible": true
+    },
+    {
+      "participant": "Skobeeff",
+      "score": 51.0,
+      "eligible": true
+    },
+    {
+      "participant": "Head Promo",
+      "score": 50.0,
+      "eligible": true
+    },
+    {
+      "participant": "GEO Scout",
+      "score": 47.0,
+      "eligible": false,
+      "reason": "unit"
+    },
+    {
+      "participant": "ipos.digital",
+      "score": 46.0,
+      "eligible": true
+    },
+    {
+      "participant": "Digital Geeks",
+      "score": 43.0,
+      "eligible": true
+    },
+    {
+      "participant": "NeuroReach",
+      "score": 43.0,
+      "eligible": true
+    },
+    {
+      "participant": "Zenlink",
+      "score": 42.0,
+      "eligible": false,
+      "reason": "period_unknown"
+    },
+    {
+      "participant": "TRINET.Group",
+      "score": 40.0,
+      "eligible": true
+    },
+    {
+      "participant": "Seo Performance Agency",
+      "score": 36.0,
+      "eligible": true
+    },
+    {
+      "participant": "SLT",
+      "score": 34.0,
+      "eligible": false,
+      "reason": "no_public_price"
+    },
+    {
+      "participant": "«Ашманов и партнёры»",
+      "score": 25.0,
+      "eligible": false,
+      "reason": "period_unknown"
+    },
+    {
+      "participant": "IT-Agency",
+      "score": 20.0,
+      "eligible": true
+    },
+    {
+      "participant": "Semantica AI",
+      "score": 0.0,
+      "eligible": false,
+      "reason": "unit"
+    }
+  ],
+  "candidatePoolSize": 29,
+  "criteriaCount": 8,
+  "sensitivity": {
+    "runs": 50000,
+    "spread": 0.2,
+    "seed": 2026
+  }
+}

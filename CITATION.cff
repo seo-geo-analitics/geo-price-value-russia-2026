@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Пожалуйста, цитируйте конкретный выпуск NeiroIndex."
+title: "Цена и качество GEO-продвижения: сколько работ подрядчики дают за свои деньги, 29 подрядчиков России, 2026"
+type: dataset
+authors:
+  - name: "NeiroIndex"
+version: "1.0.0"
+date-released: "2026-10-18"
+url: "https://github.com/seo-geo-analitics/geo-price-value-russia-2026"
+license: CC-BY-4.0
